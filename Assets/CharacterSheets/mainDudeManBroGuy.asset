@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Name: mainDudeManBroGuy
   m_EditorClassIdentifier: 
   displayName: SuperCoolMainGuy
-  faceTexturePath: adventuregame1
+  faceTexturePath: MoreResources/adventuregame1
   description: 
   level: 1
   healthCurve:
